@@ -2,7 +2,7 @@
 
 <!--
 **tonyclem/tonyclem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on coding Skill
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [linkedin](www.linkedin.com/in/clementiniovo01)
 - 😄 Pronouns: ... he/his
 - ⚡ Fun fact: ... I am full of positive
--->
+
