@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning more about javaScript
 
 - 💬 Ask me about Soft Skill
-- 
+
 - 📫 How to reach me: ... [linkedin](www.linkedin.com/in/clementiniovo01)
 
 - ⚡ Fun fact: ... I am full of positive
