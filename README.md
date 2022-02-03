@@ -9,6 +9,7 @@
 
 Here are some ideas to get you started:
 -->
+
 - 🔭 I’m currently working on  Skill
 
 - 🌱 I’m currently learning more about javaScript
@@ -19,6 +20,9 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ... I am full of positive
 
+<img align='left' width="47%"  src='https://github-readme-stats.vercel.app/api?username=tonyclem&show_icons=true&theme=chartreuse-dark'/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyclem&show_icons=true&theme=chartreuse-dark)
+<img align='left' width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=tonyclem&layout=compact' />
+
+
 
