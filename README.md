@@ -10,7 +10,7 @@
 
 I am Clement, I'm originally from Nigeria 🇳🇬 but permanently living in Netherlands 🇳🇱 . I'm full of positive and enthusiastic person. Right now i'm striving to master the act of coding and logic as well. <br>
 
-I'm currently a student at HACKYOURFUTURE coding Academy in Amsterdam. So passionate about solving problems, with technology. <br>
+I'm currently a student at HACKYOURFUTURE coding Academy in Amsterdam. So passionate about solving problems with technology and debating complex issues. <br>
 I love to learn new things 💻 🚀 , cause everydays is new days to explore 💡 something new, personal 📚 as including professional 💻 growth as well.
 
 ## I'm a Student:
@@ -50,7 +50,7 @@ I love to learn new things 💻 🚀 , cause everydays is new days to explore �
 
 <img align='left' width="47%"  src='https://github-readme-stats.vercel.app/api?username=tonyclem&show_icons=true&theme=chartreuse-dark'/>
 
-<img align='left' width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=tonyclem&layout=compact' />
+<img align='left' width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=tonyclem&layout=compact'/>
 
 <br />
 <br />
