@@ -15,7 +15,7 @@ I love to learn new things 💻 🚀 , cause everydays is new days to explore �
 
 ## I'm a Student:
 
-- 🔭 I’m currently Staudent at: [HACKYOURFUTURE]
+- 🔭 I’m currently a student at: [HACKYOURFUTURE]
 
 - 🌱 I’m currently learning everthing
 
