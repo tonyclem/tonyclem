@@ -23,9 +23,9 @@ I love to learn new things 💻 🚀 , cause everydays is new days to explore �
 
 ## Connect with me:
 
-[<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
+[<img align="left" alt="twitter" width="25px" src="https://i.postimg.cc/Kz27Fnty/twitter.png">][twitter]
 
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
+[<img align="left" alt="linkedin" width="25px" src="https://i.postimg.cc/44rf3Bmt/linkedin-logo.png">][linkedin]
 
 <br />
 
@@ -44,7 +44,7 @@ I love to learn new things 💻 🚀 , cause everydays is new days to explore �
 <img align="left" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
 
 <br />
-
+<br />
 <img align='left' width="47%"  src='https://github-readme-stats.vercel.app/api?username=tonyclem&show_icons=true&theme=chartreuse-dark'/>
 
 <img align='left' width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=tonyclem&layout=compact' />
