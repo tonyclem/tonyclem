@@ -11,13 +11,13 @@ I am Clement, I'm originally from Nigeria 🇳🇬 but permanently living in Net
 I'm currently a student at HACKYOURFUTURE coding Academy in Amsterdam. So passionate about solving problems, with technology. <br>
 I love to learn new things 💻 🚀 , cause everydays is new days to explore 💡 something new, personal 📚 as including professional 💻 growth as well.
 
-## I'm a Student
+## I'm a Student:
 
-- 🔭 I’m currently working on Skill
+- 🔭 I’m currently Staudent at: [HACKYOURFUTURE]
 
 - 🌱 I’m currently learning everthing
 
-- 📫 How to reach me: [linkedin](www.linkedin.com/in/clementiniovo01)
+- 📫 How to reach me: [linkedin]
 
 - ⚡ Fun fact: I am full of positive
 
@@ -37,14 +37,16 @@ I love to learn new things 💻 🚀 , cause everydays is new days to explore �
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 
-<br />
-
 <img align="left" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black">
 
 <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 <img align="left" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
+
+<br />
+
 <img align='left' width="47%"  src='https://github-readme-stats.vercel.app/api?username=tonyclem&show_icons=true&theme=chartreuse-dark'/>
+
 <img align='left' width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=tonyclem&layout=compact' />
 
 <br />
@@ -52,3 +54,4 @@ I love to learn new things 💻 🚀 , cause everydays is new days to explore �
 
 [twitter]: https://twitter.com/clement_S_Inv
 [linkedin]: https://linkedin.com/in/clementiniovo01
+[hackyourfuture]: https://www.hackyourfuture.net
