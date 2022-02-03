@@ -2,6 +2,8 @@
 
 ## Hello World 🌍
 
+<img src="./src/coding.jpeg">
+<br />
 <!--
 **tonyclem/tonyclem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -23,9 +25,9 @@ I love to learn new things 💻 🚀 , cause everydays is new days to explore �
 
 ## Connect with me:
 
-[<img align="left" alt="twitter" width="25px" src="https://i.postimg.cc/Kz27Fnty/twitter.png">][twitter]
+[<img align="left" alt="twitter" width="33px" src="https://i.postimg.cc/Kz27Fnty/twitter.png">][twitter]
 
-[<img align="left" alt="linkedin" width="25px" src="https://i.postimg.cc/44rf3Bmt/linkedin-logo.png">][linkedin]
+[<img align="left" alt="linkedin" width="33px" src="https://i.postimg.cc/44rf3Bmt/linkedin-logo.png">][linkedin]
 
 <br />
 
@@ -53,6 +55,6 @@ I love to learn new things 💻 🚀 , cause everydays is new days to explore �
 <br />
 <br />
 
+[hackyourfuture]: https://www.hackyourfuture.net
 [twitter]: https://twitter.com/clement_S_Inv
 [linkedin]: https://linkedin.com/in/clementiniovo01
-[hackyourfuture]: https://www.hackyourfuture.net
