@@ -49,7 +49,7 @@ I love to learn new things 💻 🚀 because everyday is new day to explore 💡
 
 <br />
 <br />
-
+<img align="left" alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 
 <img align="left" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 
