@@ -30,10 +30,11 @@ I love to learn new things 💻 🚀 because everyday is new day to explore 💡
 [<img align="left" alt="linkedin" width="33px" src="https://i.postimg.cc/44rf3Bmt/linkedin-logo.png">][linkedin]
 
 <br />
+##
 
-<img align='left' width="47%"  src='https://github-readme-stats.vercel.app/api?username=tonyclem&show_icons=true&theme=chartreuse-dark'/>
+<img align='right' width="47%"  src='https://github-readme-stats.vercel.app/api?username=tonyclem&show_icons=true&theme=chartreuse-dark'/>
 
-<img align='left' width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=tonyclem&layout=compact'/>
+<img align='right' width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=tonyclem&layout=compact'/>
 
 <br />
 <br />
