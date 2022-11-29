@@ -23,11 +23,6 @@ I love to learn new things 💻 🚀 because everyday is new day to explore 💡
 
 - ⚡ Fun fact: I am full of positive
 
-## Connect with me:
-
-[<img align="left" alt="twitter" width="33px" src="https://i.postimg.cc/Kz27Fnty/twitter.png">][twitter]
-
-[<img align="left" alt="linkedin" width="33px" src="https://i.postimg.cc/44rf3Bmt/linkedin-logo.png">][linkedin]
 
 <br />
 
