@@ -23,15 +23,13 @@ I love to learn new things 💻 🚀 because everyday is new day to explore 💡
 
 - ⚡ Fun fact: I am full of positive
 
-
-<br />
-
-<img align='right' width="47%"  src='https://github-readme-stats.vercel.app/api?username=tonyclem&show_icons=true&theme=chartreuse-dark'/>
+##
 
 <img align='right' width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=tonyclem&layout=compact'/>
 
-<br />
-<br />
+<img align='right' width="47%"  src='https://github-readme-stats.vercel.app/api?username=tonyclem&show_icons=true&theme=chartreuse-dark'/>
+
+
 
 [twitter]: https://twitter.com/clement_S_Inv
 [linkedin]: https://linkedin.com/in/clementiniovo01
