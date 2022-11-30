@@ -13,7 +13,7 @@ I am Clement, I'm full of positive and enthusiastic person. Right now i'm strivi
 I'm currently learning and working with gulkaz-general org. So passionate about solving problems with technology and debating complex issues. <br>
 I love to learn new things 💻 🚀 because everyday is new day to explore 💡 something new, personal 📚 as including professional 💻 growth as well.
 
-## I'm a Student:
+##
 
 - 🔭 I’m currently working with: gulkaz org 
 
