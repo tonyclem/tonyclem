@@ -15,7 +15,7 @@ I love to learn new things 💻 🚀 because everyday is new day to explore 💡
 
 ##
 
-- 🔭 I’m currently working with: gulkaz org 
+- 🔭 I’m currently working on gulkaz org 
 
 - 🌱 I’m currently learning everything
 
