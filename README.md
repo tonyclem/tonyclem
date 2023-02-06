@@ -1,4 +1,4 @@
-# Clement S.Iniovo 😀
+# Clement 😀
 
 ## Hello World 🌍
 
